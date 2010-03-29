@@ -6,7 +6,7 @@
         android:id="@+id/label"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:text="Type here:"/>
+        android:text="Name your donky:"/>
     <EditText
         android:id="@+id/entry"
         android:layout_width="fill_parent"
@@ -33,5 +33,5 @@
         android:layout_below="@id/cancel"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:text="End"/>
+        android:text="Legend..."/>
 </RelativeLayout>
